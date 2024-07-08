@@ -1,7 +1,7 @@
 
 # NYC Swim for Life Program Analysis
 
-This is the 2nd project I worked on in the TripleTen Data Science program. This project was the most independent project I've worked on so far, and I loved it.
+A dashboard to monitor Swim for Life program and a data story to advocate for affordable swimming education. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link). 
 
 ### Instacart Orders
 

@@ -1,7 +1,9 @@
 
 # NYC Swim for Life Program Analysis
 
-A dashboard to monitor Swim for Life program and a data story to advocate for affordable swimming education. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link){:target="_blank"} . 
+A dashboard to monitor Swim for Life program and a data story to advocate for affordable swimming education. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link).
+
+![Image](NYC Swim for Life Program Analysis/dashboard.png)
 
 ### Instacart Orders
 

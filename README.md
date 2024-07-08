@@ -1,5 +1,5 @@
 # data_projects
-Projects I worked on while learning Data Analysis.
+Projects I worked on. Enjoy!
 
 
 | Project number | Title | Description |

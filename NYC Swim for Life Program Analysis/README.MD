@@ -6,8 +6,9 @@ A dashboard to monitor Swim for Life program offered in New York City and a data
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/6da5034f8a3292cacf5716a4fe6dc5268cf03688/NYC%20Swim%20for%20Life%20Program%20Analysis/dashboard.png)
 
 ### Key Metrics and Dimensions:
-#---
-- **Number of Sessions Attended:** 
+#
+- **Number of Sessions Attended:** How many sessions a student completed.
+- **Attended or Not:** If the session is attended or not.
 ### Conclusions:
 ---
 

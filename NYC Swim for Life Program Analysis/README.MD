@@ -2,6 +2,22 @@
 
 A dashboard to monitor Swim for Life program offered in New York City and a data story to advocate for affordable swimming education. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link).
 
+###Background
+#
+According to CDC (Centers for Disease Control and Prevention), drowning is the second leading cause of unintentional injury death among children aged 5-14, after motor vehicle crashes. [Source](https://www.cdc.gov/drowning/data-research/facts/?CDC_AAref_Val=https://www.cdc.gov/drowning/facts/index.html)
+
+In 2023, NYC Council passed bills requiring the Department of Parks and Recreation to provide free swimming lessons and water safety instruction to NYC public school second graders.
+
+However, due to budget cuts, NYC could only offer 2,000 students to participate in the free program even with private funding in 2024.
+
+**_Swim for Life_**, offered by NYC Parks, has been in place even before the new bills. The public dataset contains attendance information from 2016 to 2021.
+
+**More details about the program:**
+- Three 10-week sessions per year (October through June). 
+- Second grade students come as a class one hour per week. 
+- Classes are held 5 days per week during the hours of 10a.m.-1p.m.
+- It previously cost $100 per child.
+
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/6da5034f8a3292cacf5716a4fe6dc5268cf03688/NYC%20Swim%20for%20Life%20Program%20Analysis/dashboard.png)
 
 ### Key Metrics and Dimensions:
@@ -11,6 +27,11 @@ A dashboard to monitor Swim for Life program offered in New York City and a data
 - **Attendance Rate:** The percentage of students signed up who actually attended the trainings.
 - **Enrollment Number:** The number of students who enrolled in the program.
 - **Training Site Geo Location:** The Geo info of the training site across NYC.
+- **Gender:**Female, Male, Unknown.
+- **School Year:** 2016-2017 to 2021-2022.
+- **Borough:** Manhattan, Brooklyn, Bronx, Queens.
+- **School:** The participating schools in NYC.
+
 ### Conclusions:
 #
 
@@ -26,13 +47,14 @@ It could also indicate a gap among students in different boroughs in terms of sw
 - Pool use: Swim for Life takes place mostly in public park pools along with a few other partners. There's only a small portion of public pools that are available in the progrom. Might consider expanding the program to include more public pools and offering weekend classes could increase accessibility.
 
 ### Future Research ideas:
+#
 
 - Get more info about attendees' pre and post program swimming ability comparison to better measure the quality of the program.
 
 - According to NYC Youth Risk Behavior Survey from 2017, there's a huge gap in race when it comes to swimming ability. The report should include more details on race.
 
-#### Data Sources and Notes
-
+### Data Sources and Notes
+#
 **Swim for Life**
 from NYC OpenData, lasted updated: November 29, 2022
 https://data.cityofnewyork.us/Recreation/Swim-for-Life/mtt6-ywt4/about_data

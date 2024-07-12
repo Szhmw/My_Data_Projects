@@ -2,13 +2,13 @@
 
 A dashboard to monitor Swim for Life program offered in New York City and a data story to advocate for affordable swimming education. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link).
 
-###Background
+### Background
 #
 According to CDC (Centers for Disease Control and Prevention), drowning is the second leading cause of unintentional injury death among children aged 5-14, after motor vehicle crashes. [Source](https://www.cdc.gov/drowning/data-research/facts/?CDC_AAref_Val=https://www.cdc.gov/drowning/facts/index.html)
 
-In 2023, NYC Council passed bills requiring the Department of Parks and Recreation to provide free swimming lessons and water safety instruction to NYC public school second graders.
+In 2023, NYC Council passed bills requiring the Department of Parks and Recreation to provide free swimming lessons and water safety instruction to NYC public school second graders. [Source](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=5871055&GUID=BDDE92D1-845D-44FB-ABD0-93F64E8D1832&Options=ID%7CText%7C&Search=swim+lessons)
 
-However, due to budget cuts, NYC could only offer 2,000 students to participate in the free program even with private funding in 2024.
+However, due to budget cuts, NYC could only offer 2,000 students to participate in the free program even with private funding in 2024. [Source](https://www.nytimes.com/2024/01/15/nyregion/swim-lessons-children-nyc.html)
 
 **_Swim for Life_**, offered by NYC Parks, has been in place even before the new bills. The public dataset contains attendance information from 2016 to 2021.
 
@@ -17,6 +17,11 @@ However, due to budget cuts, NYC could only offer 2,000 students to participate 
 - Second grade students come as a class one hour per week. 
 - Classes are held 5 days per week during the hours of 10a.m.-1p.m.
 - It previously cost $100 per child.
+
+[Information about Swim for Life Program](https://www.nycgovparks.org/opportunities/support/swim-for-life)
+
+### Dashboard:
+#
 
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/6da5034f8a3292cacf5716a4fe6dc5268cf03688/NYC%20Swim%20for%20Life%20Program%20Analysis/dashboard.png)
 
@@ -51,9 +56,9 @@ It could also indicate a gap among students in different boroughs in terms of sw
 
 - Get more info about attendees' pre and post program swimming ability comparison to better measure the quality of the program.
 
-- According to NYC Youth Risk Behavior Survey from 2017, there's a huge gap in race when it comes to swimming ability. The report should include more details on race.
+- According to NYC Youth Risk Behavior Survey from 2017, there's a huge gap in race when it comes to swimming ability. The report should include more details on race. [NYC Youth Risk Behavior Survey](https://a816-health.nyc.gov/hdi/epiquery/visualizations?PageType=ts&PopulationSource=YRBS&Topic=5&Subtopic=35&DisplayViz=Main&MainDashboard=View%20Indicator%20Quick%20Look&MainCustomView=https%3A%2F%2Fa816-healthtableau.nyc.gov%2Ft%2FHDI-EPIQUERY%2Fviews%2FHDISurveyModules_YRBS%2FViewIndicatorQuickLook%2FHDI_Publicprdsvc%2Fcv1658417047751PS&SAIDashboard=See%20Available%20Indicators&SAICustomView=https%3A%2F%2Fa816-healthtableau.nyc.gov%2Ft%2FHDI-EPIQUERY%2Fviews%2FHDISurveyModules_YRBS_SAIOnly%2FSeeAvailableIndicators%2FHDI_Publicprdsvc%2Fcv1658417047751SAIPS)
 
-### Data Sources and Notes
+### Data Sources and Notes:
 #
 **Swim for Life**
 from NYC OpenData, lasted updated: November 29, 2022
@@ -67,19 +72,3 @@ _Notes:_
 **NYC Parks Pools**
 from NYC OpenData, lasted updated: May 1, 2024
 https://data.cityofnewyork.us/Recreation/NYC-Parks-Pools/y5rm-wagw/about_data
-
-Other references:
-CDC Drowning Fact:
-https://www.cdc.gov/drowning/data-research/facts/?CDC_AAref_Val=https://www.cdc.gov/drowning/facts/index.html
-
-In 2023, NYC Concil passed bills to require Department of Parks and Recreation to provide swimming lessons and water safety instruction for free to NYC public school second grade students.
-https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=5871055&GUID=BDDE92D1-845D-44FB-ABD0-93F64E8D1832&Options=ID%7CText%7C&Search=swim+lessons
-
-In 2024, the free swim program was in imperiled before a private donor stepped in.
-https://www.nytimes.com/2024/01/15/nyregion/swim-lessons-children-nyc.html
-
-Swim for Life Program:
-https://www.nycgovparks.org/opportunities/support/swim-for-life
-
-NYC Youth Risk Behavior Survey
-https://a816-health.nyc.gov/hdi/epiquery/visualizations?PageType=ts&PopulationSource=YRBS&Topic=5&Subtopic=35&DisplayViz=Main&MainDashboard=View%20Indicator%20Quick%20Look&MainCustomView=https%3A%2F%2Fa816-healthtableau.nyc.gov%2Ft%2FHDI-EPIQUERY%2Fviews%2FHDISurveyModules_YRBS%2FViewIndicatorQuickLook%2FHDI_Publicprdsvc%2Fcv1658417047751PS&SAIDashboard=See%20Available%20Indicators&SAICustomView=https%3A%2F%2Fa816-healthtableau.nyc.gov%2Ft%2FHDI-EPIQUERY%2Fviews%2FHDISurveyModules_YRBS_SAIOnly%2FSeeAvailableIndicators%2FHDI_Publicprdsvc%2Fcv1658417047751SAIPS

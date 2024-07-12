@@ -9,8 +9,9 @@ A dashboard to monitor Swim for Life program offered in New York City and a data
 #
 - **Number of Sessions Attended:** How many sessions a student completed.
 - **Attended or Not:** If the session is attended or not.
+- **Attendance Rate:** The percentage of students signed up who actually attended the trainings.
 ### Conclusions:
----
+#
 
 - Attendance: Close to 16,000 students enrolled in the program. On average 91% of them attended at least one session. 
 

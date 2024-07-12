@@ -45,9 +45,9 @@ However, due to budget cuts, NYC could only offer 2,000 students to participate 
 - Gender comparison: The total signup numbers, total sessions attendance, and attendance rates are pretty balanced among genders.
 
 - Borough comparison: Although there are more training sites in Manhattan, students attended more sessions at the training sites in Queens. 
-To improve attendance, it's worth investigating factors like pool facilities and staff training across different training sites.
+    To improve attendance, it's worth investigating factors like pool facilities and staff training across different training sites.
 
-It could also indicate a gap among students in different boroughs in terms of swimming ability. This disparity could be due to socioeconomic factors. Students and parents with fewer resources might be more motivated to participate in the program to bridge learning gaps.
+    It could also indicate a gap among students in different boroughs in terms of swimming ability. This disparity could be due to socioeconomic factors. Students and parents with fewer resources might be more motivated to participate in the program to bridge learning gaps.
 
 - Pool use: Swim for Life takes place mostly in public park pools along with a few other partners. There's only a small portion of public pools that are available in the progrom. Might consider expanding the program to include more public pools and offering weekend classes could increase accessibility.
 
@@ -63,10 +63,10 @@ It could also indicate a gap among students in different boroughs in terms of sw
 1. [**Swim for Life**](https://data.cityofnewyork.us/Recreation/Swim-for-Life/mtt6-ywt4/about_data)
 from NYC OpenData, lasted updated: November 29, 2022
 
-  _Notes:_
-    - The program was not offered in 2022
-    - Gender column has some unknown values
-    - [Data cleaning change log link](https://github.com/Szhmw/My_Data_Projects/blob/81d2baa9b6ce123447d6b5c4e5ffe54d3b7c23ab/NYC%20Swim%20for%20Life%20Program%20Analysis/Change%20Log.md)
+      _Notes:_
+          - The program was not offered in 2022
+          - Gender column has some unknown values
+          - [Data cleaning change log link](https://github.com/Szhmw/My_Data_Projects/blob/81d2baa9b6ce123447d6b5c4e5ffe54d3b7c23ab/NYC%20Swim%20for%20Life%20Program%20Analysis/Change%20Log.md)
 
 2. [**NYC Parks Pools**](https://data.cityofnewyork.us/Recreation/NYC-Parks-Pools/y5rm-wagw/about_data)
 from NYC OpenData, lasted updated: May 1, 2024

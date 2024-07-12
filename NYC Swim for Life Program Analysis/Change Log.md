@@ -1,4 +1,4 @@
-#Change Log
+# Change Log
  
 + ver. 1.1 Created a staging table swim_for_life_staging
 + ver. 1.2 Change missing Gender to 'unknown'

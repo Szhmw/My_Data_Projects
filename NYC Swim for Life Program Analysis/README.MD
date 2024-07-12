@@ -1,4 +1,3 @@
-
 # NYC Swim for Life Program Analysis
 
 A dashboard to monitor Swim for Life program offered in New York City and a data story to advocate for affordable swimming education. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link).
@@ -32,42 +31,33 @@ It could also indicate a gap among students in different boroughs in terms of sw
 
 - According to NYC Youth Risk Behavior Survey from 2017, there's a huge gap in race when it comes to swimming ability. The report should include more details on race.
 
-#### The Data
+#### Data Sources and Notes
 
-The data was downloaded from NYC OpenData
+**Swim for Life**
+from NYC OpenData, lasted updated: November 29, 2022
+https://data.cityofnewyork.us/Recreation/Swim-for-Life/mtt6-ywt4/about_data
 
-- `instacart_orders.csv`: each row corresponds to one order on the Instacart app
-    - `'order_id'`: ID number that uniquely identifies each order
-    - `'user_id'`: ID number that uniquely identifies each customer account
-    - `'order_number'`: the number of times this customer has placed an order
-    - `'order_dow'`: day of the week that the order placed (which day is 0 is uncertain)
-    - `'order_hour_of_day'`: hour of the day that the order was placed
-    - `'days_since_prior_order'`: number of days since this customer placed their previous order
-- `products.csv`: each row corresponds to a unique product that customers can buy
-    - `'product_id'`: ID number that uniquely identifies each product
-    - `'product_name'`: name of the product
-    - `'aisle_id'`: ID number that uniquely identifies each grocery aisle category
-    - `'department_id'`: ID number that uniquely identifies each grocery department category
-- `order_products.csv`: each row corresponds to one item placed in an order
-    - `'order_id'`: ID number that uniquely identifies each order
-    - `'product_id'`: ID number that uniquely identifies each product
-    - `'add_to_cart_order'`: the sequential order in which each item was placed in the cart
-    - `'reordered'`: 0 if the customer has never ordered this product before, 1 if they have
-- `aisles.csv`
-    - `'aisle_id'`: ID number that uniquely identifies each grocery aisle category
-    - `'aisle'`: name of the aisle
-- `departments.csv`
-    - `'department_id'`: ID number that uniquely identifies each grocery department category
-    - `'department'`: name of the department
+_Notes:_
+- The program was not offered in 2022
+- Gender column has some unknown values
+- Data cleaning change log link https://drive.google.com/file/d/166466Cmh_DNTktPgvuNRuh1rPVYeQrOT/view?usp=sharing
 
-The data is provided by TripleTen, who took it from Kaggle and modified it.
+**NYC Parks Pools**
+from NYC OpenData, lasted updated: May 1, 2024
+https://data.cityofnewyork.us/Recreation/NYC-Parks-Pools/y5rm-wagw/about_data
 
-#### The Process
+Other references:
+CDC Drowning Fact:
+https://www.cdc.gov/drowning/data-research/facts/?CDC_AAref_Val=https://www.cdc.gov/drowning/facts/index.html
 
-I first explored the dataset to find and fix missing and duplicate values, and I merged DataFrames from different sources. Finally, I analyzed the data using visualizations and pivot tables.
+In 2023, NYC Concil passed bills to require Department of Parks and Recreation to provide swimming lessons and water safety instruction for free to NYC public school second grade students.
+https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=5871055&GUID=BDDE92D1-845D-44FB-ABD0-93F64E8D1832&Options=ID%7CText%7C&Search=swim+lessons
 
-### Results
+In 2024, the free swim program was in imperiled before a private donor stepped in.
+https://www.nytimes.com/2024/01/15/nyregion/swim-lessons-children-nyc.html
 
-Taking the time to explain my results at each step was a key element in this process, and this was my first attempt at doing it. I wrote an introduction and conclusion that outlined what I did, and made suggestions for Instacart to consider in the future.
+Swim for Life Program:
+https://www.nycgovparks.org/opportunities/support/swim-for-life
 
-Please have a look at the Jupyter Notebook included for a full description of results.
+NYC Youth Risk Behavior Survey
+https://a816-health.nyc.gov/hdi/epiquery/visualizations?PageType=ts&PopulationSource=YRBS&Topic=5&Subtopic=35&DisplayViz=Main&MainDashboard=View%20Indicator%20Quick%20Look&MainCustomView=https%3A%2F%2Fa816-healthtableau.nyc.gov%2Ft%2FHDI-EPIQUERY%2Fviews%2FHDISurveyModules_YRBS%2FViewIndicatorQuickLook%2FHDI_Publicprdsvc%2Fcv1658417047751PS&SAIDashboard=See%20Available%20Indicators&SAICustomView=https%3A%2F%2Fa816-healthtableau.nyc.gov%2Ft%2FHDI-EPIQUERY%2Fviews%2FHDISurveyModules_YRBS_SAIOnly%2FSeeAvailableIndicators%2FHDI_Publicprdsvc%2Fcv1658417047751SAIPS

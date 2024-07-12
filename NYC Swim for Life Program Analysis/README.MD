@@ -63,11 +63,11 @@ It could also indicate a gap among students in different boroughs in terms of sw
 1. [**Swim for Life**](https://data.cityofnewyork.us/Recreation/Swim-for-Life/mtt6-ywt4/about_data)
 from NYC OpenData, lasted updated: November 29, 2022
 
-..._Notes:_
-...- The program was not offered in 2022
-...- Gender column has some unknown values
-...- Data cleaning change log link https://drive.google.com/file/d/166466Cmh_DNTktPgvuNRuh1rPVYeQrOT/view?usp=sharing
+  _Notes:_
+    - The program was not offered in 2022
+    - Gender column has some unknown values
+    - Data cleaning change log link https://drive.google.com/file/d/166466Cmh_DNTktPgvuNRuh1rPVYeQrOT/view?usp=sharing
 
-1. [**NYC Parks Pools**](https://data.cityofnewyork.us/Recreation/NYC-Parks-Pools/y5rm-wagw/about_data)
+2. [**NYC Parks Pools**](https://data.cityofnewyork.us/Recreation/NYC-Parks-Pools/y5rm-wagw/about_data)
 from NYC OpenData, lasted updated: May 1, 2024
 

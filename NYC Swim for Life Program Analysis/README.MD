@@ -32,7 +32,7 @@ However, due to budget cuts, NYC could only offer 2,000 students to participate 
 - **Attendance Rate:** The percentage of students signed up who actually attended the trainings.
 - **Enrollment Number:** The number of students who enrolled in the program.
 - **Training Site Geo Location:** The Geo info of the training site across NYC.
-- **Gender:**Female, Male, Unknown.
+- **Gender:** Female, Male, Unknown.
 - **School Year:** 2016-2017 to 2021-2022.
 - **Borough:** Manhattan, Brooklyn, Bronx, Queens.
 - **School:** The participating schools in NYC.
@@ -60,15 +60,14 @@ It could also indicate a gap among students in different boroughs in terms of sw
 
 ### Data Sources and Notes:
 #
-**Swim for Life**
+1. [**Swim for Life**](https://data.cityofnewyork.us/Recreation/Swim-for-Life/mtt6-ywt4/about_data)
 from NYC OpenData, lasted updated: November 29, 2022
-https://data.cityofnewyork.us/Recreation/Swim-for-Life/mtt6-ywt4/about_data
 
-_Notes:_
-- The program was not offered in 2022
-- Gender column has some unknown values
-- Data cleaning change log link https://drive.google.com/file/d/166466Cmh_DNTktPgvuNRuh1rPVYeQrOT/view?usp=sharing
+..._Notes:_
+...- The program was not offered in 2022
+...- Gender column has some unknown values
+...- Data cleaning change log link https://drive.google.com/file/d/166466Cmh_DNTktPgvuNRuh1rPVYeQrOT/view?usp=sharing
 
-**NYC Parks Pools**
+1. [**NYC Parks Pools**](https://data.cityofnewyork.us/Recreation/NYC-Parks-Pools/y5rm-wagw/about_data)
 from NYC OpenData, lasted updated: May 1, 2024
-https://data.cityofnewyork.us/Recreation/NYC-Parks-Pools/y5rm-wagw/about_data
+

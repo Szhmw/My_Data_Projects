@@ -40,16 +40,16 @@ However, due to budget cuts, NYC could only offer 2,000 students to participate 
 ### Conclusions:
 #
 
-- Attendance: Close to 16,000 students enrolled in the program. On average 91% of them attended at least one session. 
+- **Attendance:** Close to 16,000 students enrolled in the program. On average 91% of them attended at least one session. 
 
-- Gender comparison: The total signup numbers, total sessions attendance, and attendance rates are pretty balanced among genders.
+- **Gender comparison:** The total signup numbers, total sessions attendance, and attendance rates are pretty balanced among genders.
 
-- Borough comparison: Although there are more training sites in Manhattan, students attended more sessions at the training sites in Queens. 
+- **Borough comparison:** Although there are more training sites in Manhattan, students attended more sessions at the training sites in Queens. 
     To improve attendance, it's worth investigating factors like pool facilities and staff training across different training sites.
 
     It could also indicate a gap among students in different boroughs in terms of swimming ability. This disparity could be due to socioeconomic factors. Students and parents with fewer resources might be more motivated to participate in the program to bridge learning gaps.
 
-- Pool use: Swim for Life takes place mostly in public park pools along with a few other partners. There's only a small portion of public pools that are available in the progrom. Might consider expanding the program to include more public pools and offering weekend classes could increase accessibility.
+- **Pool use:** Swim for Life takes place mostly in public park pools along with a few other partners. There's only a small portion of public pools that are available in the progrom. Might consider expanding the program to include more public pools and offering weekend classes could increase accessibility.
 
 ### Future Research ideas:
 #

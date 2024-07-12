@@ -4,7 +4,5 @@ Projects I worked on. Enjoy!
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | [NYC Swim for Life Program Analysis](https://github.com/Szhmw/My_Data_Projects/tree/748cb3faac6b94f25899ed8a9c4c7d5651173fcb/NYC%20Swim%20for%20Life%20Program%20Analysis)| A dashboard to monitor Swim for Life program offered in New York City and a data story to advocate for affordable swimming education. |
+

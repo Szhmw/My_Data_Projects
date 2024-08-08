@@ -1,6 +1,6 @@
 # Zomato App User Analysis
 
-Zomato is an Indian multinational restaurant aggregator and food delivery company. I conducted a User Segmentation and Purchasing Behavior Analysis using data from 2017 to 2020.
+Zomato is an Indian multinational restaurant aggregator and food delivery company. I conducted a User Segmentation and Purchasing Behavior Analysis using data from 2017 to 2020. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link).
 
 
 ### Dashboard:
@@ -10,36 +10,33 @@ Zomato is an Indian multinational restaurant aggregator and food delivery compan
 
 ### Key Metrics and Dimensions:
 #
-- **Number of Sessions Attended:** How many sessions a student completed.
-- **Attended or Not:** If the session is attended or not.
-- **Attendance Rate:** The percentage of students signed up who actually attended the trainings.
-- **Enrollment Number:** The number of students who enrolled in the program.
-- **Training Site Geo Location:** The Geo info of the training site across NYC.
-- **Gender:** Female, Male, Unknown.
-- **School Year:** 2016-2017 to 2021-2022.
-- **Borough:** Manhattan, Brooklyn, Bronx, Queens.
-- **School:** The participating schools in NYC.
+- **Total Sales:** How many sales made.
+- **Total Order Amount:** If the session is attended or not.
+- **Total Quantity:** The percentage of students signed up who actually attended the trainings.
+- **Gender:** Female, Male.
+- **Age:** User Age.
+- **Weekday:** Manhattan, Brooklyn, Bronx, Queens.
+- **Month:** The participating schools in NYC.
 
-### Conclusions:
+### Findings:
 #
+- **Age and Occupation:** Zomato’s user base is young (users’ ages are between 18 and 33). 
+Age groups from 22 to 25 contributed to most of the sales. The most active of them are students.
 
-- **Attendance:** Close to 16,000 students enrolled in the program. On average 91% of them attended at least one session. 
+- **Gender comparison:** But female users and married users were less engaged.
 
-- **Gender comparison:** The total signup numbers, total sessions attendance, and attendance rates are pretty balanced among genders.
+- **Seasonality:** Users placed the most orders during weekdays, with a peak on Fridays. But the order amount plunged on the weekends. 
+January and November saw the highest surge in sales and orders. Monsoon season (June to September) brought in less orders and sales probably due to the disruption of the delivery system by heavy rain.
 
-- **Borough comparison:** Although there are more training sites in Manhattan, students attended more sessions at the training sites in Queens. 
-    To improve attendance, it's worth investigating factors like pool facilities and staff training across different training sites.
-
-    It could also indicate a gap among students in different boroughs in terms of swimming ability. This disparity could be due to socioeconomic factors. Students and parents with fewer resources might be more motivated to participate in the program to bridge learning gaps.
-
-- **Pool use:** Swim for Life takes place mostly in public park pools along with a few other partners. There's only a small portion of public pools that are available in the progrom. Might consider expanding the program to include more public pools and offering weekend classes could increase accessibility.
+- **Cuisine Popularity:** Indian (sometimes Chinese Indian fusion) cuisines dominated among all the cuisines.
 
 ### Future Research ideas:
 #
+- Create marketing campaigns aimed at female customers, married couples, and employees to expand the customer base.
+- Offer promotions and special deals during the weekend to boost sales on the weekends
+- Look into if weather is the reason why sales are low during the monsoon season.
+- Encourage restaurants specializing in other cuisines other than Indian food to offer discounts to drive sales.
 
-- Get more info about attendees' pre and post program swimming ability comparison to better measure the quality of the program.
-
-- According to NYC Youth Risk Behavior Survey from 2017, there's a huge gap in race when it comes to swimming ability. The report should include more details on race. [NYC Youth Risk Behavior Survey](https://a816-health.nyc.gov/hdi/epiquery/visualizations?PageType=ts&PopulationSource=YRBS&Topic=5&Subtopic=35&DisplayViz=Main&MainDashboard=View%20Indicator%20Quick%20Look&MainCustomView=https%3A%2F%2Fa816-healthtableau.nyc.gov%2Ft%2FHDI-EPIQUERY%2Fviews%2FHDISurveyModules_YRBS%2FViewIndicatorQuickLook%2FHDI_Publicprdsvc%2Fcv1658417047751PS&SAIDashboard=See%20Available%20Indicators&SAICustomView=https%3A%2F%2Fa816-healthtableau.nyc.gov%2Ft%2FHDI-EPIQUERY%2Fviews%2FHDISurveyModules_YRBS_SAIOnly%2FSeeAvailableIndicators%2FHDI_Publicprdsvc%2Fcv1658417047751SAIPS)
 
 ### Data Sources and Notes:
 #

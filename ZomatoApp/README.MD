@@ -24,6 +24,7 @@ Zomato is an Indian multinational restaurant aggregator and food delivery compan
 #
 - **Age and Occupation:** Zomato’s user base is young (users’ ages are between 18 and 33). 
 Age groups from 22 to 25 contributed to most of the sales. The most active of them are students. These active users are more likely to be single and have received higher education.
+#
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/age_job.png)
 - **Gender & Marital Status comparison:** But female users and married users were less engaged.
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/gender.png)

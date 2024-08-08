@@ -1,24 +1,11 @@
 # Zomato App User Analysis
 
-A dashboard to monitor Swim for Life program offered in New York City and a data story to advocate for affordable swimming education. Interactive Tableau dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link).
+User Segmentation and Purchasing Behavior From 2017 to 2020
+ PowerBI dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link).
 
 ### Background
 #
-According to CDC (Centers for Disease Control and Prevention), drowning is the second leading cause of unintentional injury death among children aged 5-14, after motor vehicle crashes. [Source](https://www.cdc.gov/drowning/data-research/facts/?CDC_AAref_Val=https://www.cdc.gov/drowning/facts/index.html)
-
-In 2023, NYC Council passed bills requiring the Department of Parks and Recreation to provide free swimming lessons and water safety instruction to NYC public school second graders. [Source](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=5871055&GUID=BDDE92D1-845D-44FB-ABD0-93F64E8D1832&Options=ID%7CText%7C&Search=swim+lessons)
-
-However, due to budget cuts, NYC could only offer 2,000 students to participate in the free program even with private funding in 2024. [Source](https://www.nytimes.com/2024/01/15/nyregion/swim-lessons-children-nyc.html)
-
-**_Swim for Life_**, offered by NYC Parks, has been in place even before the new bills. The public dataset contains attendance information from 2016 to 2021.
-
-**More details about the program:**
-- Three 10-week sessions per year (October through June). 
-- Second grade students come as a class one hour per week. 
-- Classes are held 5 days per week during the hours of 10a.m.-1p.m.
-- It previously cost $100 per child.
-
-[Information about Swim for Life Program](https://www.nycgovparks.org/opportunities/support/swim-for-life)
+Zomato is an Indian multinational restaurant aggregator and food delivery company.
 
 ### Dashboard:
 #

@@ -1,11 +1,7 @@
 # Zomato App User Analysis
 
-User Segmentation and Purchasing Behavior From 2017 to 2020
- PowerBI dashboard can be found [here](https://public.tableau.com/shared/6GR6ZR3MQ?:display_count=n&:origin=viz_share_link).
+Zomato is an Indian multinational restaurant aggregator and food delivery company. I conducted a User Segmentation and Purchasing Behavior Analysis using data from 2017 to 2020.
 
-### Background
-#
-Zomato is an Indian multinational restaurant aggregator and food delivery company.
 
 ### Dashboard:
 #

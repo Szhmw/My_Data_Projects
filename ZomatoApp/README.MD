@@ -31,8 +31,10 @@ Age groups from 22 to 25 contributed to most of the sales. The most active of th
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/gender.png)
 - **Seasonality:** Users placed the most orders during weekdays, with a peak on Fridays. But the order amount plunged on the weekends. 
 January and November saw the highest surge in sales and orders. Monsoon season (June to September) brought in less orders and sales probably due to the disruption of the delivery system by heavy rain.
+<br/><br/>
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/weekday_month.png)
 - **Cuisine Popularity:** Indian (sometimes Chinese Indian fusion) cuisines dominated among all the cuisines.
+<br/><br/>
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/cuisines.png)
 ### Recommendations:
 #

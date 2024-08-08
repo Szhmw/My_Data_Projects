@@ -6,7 +6,7 @@ Zomato is an Indian multinational restaurant aggregator and food delivery compan
 ### Dashboard:
 #
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_sales.png)
-&nbsp;  
+<p>&nbsp;  </p>
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_order.png)
 
 ### Key Metrics and Dimensions:

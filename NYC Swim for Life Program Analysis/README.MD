@@ -64,9 +64,9 @@ However, due to budget cuts, NYC could only offer 2,000 students to participate 
 from NYC OpenData, lasted updated: November 29, 2022
 
 _Notes:_
-          - The program was not offered in 2022.
-          - Gender column has some unknown values.
-          - [Data cleaning change log link](https://github.com/Szhmw/My_Data_Projects/blob/81d2baa9b6ce123447d6b5c4e5ffe54d3b7c23ab/NYC%20Swim%20for%20Life%20Program%20Analysis/Change%20Log.md)
+- The program was not offered in 2022.
+- Gender column has some unknown values.
+- [Data cleaning change log link](https://github.com/Szhmw/My_Data_Projects/blob/81d2baa9b6ce123447d6b5c4e5ffe54d3b7c23ab/NYC%20Swim%20for%20Life%20Program%20Analysis/Change%20Log.md)
 
 2. [**NYC Parks Pools**](https://data.cityofnewyork.us/Recreation/NYC-Parks-Pools/y5rm-wagw/about_data)
 from NYC OpenData, lasted updated: May 1, 2024

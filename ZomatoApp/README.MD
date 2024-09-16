@@ -4,9 +4,9 @@ Zomato is an Indian multinational restaurant aggregator and food delivery compan
 
 ### Data Structure & Initial Checks
 
-users Table: 100,000 rows
-restaurant Table: >148,000 rows
-orders Table: >150,000 rows
+- users Table: 100,000 rows
+- restaurant Table: >148,000 rows
+- orders Table: >150,000 rows
 
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/a87460c565c67a90ca0b619b0e11b41c0c8a2c38/ZomatoApp/ERD.png)
 

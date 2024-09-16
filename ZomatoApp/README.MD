@@ -1,12 +1,6 @@
 # Zomato App User Analysis
 
-Zomato is an Indian multinational restaurant aggregator and food delivery company. I conducted a User Segmentation and Purchasing Behavior Analysis using data from 2017 to 2020. Interactive PowerBI dashboards can be found [here](https://drive.google.com/drive/folders/1oKq2yvvakLV_R2DQtQnOSwPwsXeWb-Ad?usp=sharing).
-
-### Dashboard:
-
-![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_sales.png)
-<br/><br/>
-![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_order.png)
+Zomato is an Indian multinational restaurant aggregator and food delivery company. I conducted a User Segmentation and Purchasing Behavior Analysis using data from 2017 to 2020.
 
 ### Data Structure & Initial Checks
 
@@ -14,7 +8,16 @@ users Table: 100,000 rows
 restaurant Table: >148,000 rows
 orders Table: >150,000 rows
 
-![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/age_job.png)
+![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/a87460c565c67a90ca0b619b0e11b41c0c8a2c38/ZomatoApp/ERD.png)
+
+### Dashboard:
+
+Interactive PowerBI dashboards can be found [here](https://drive.google.com/drive/folders/1oKq2yvvakLV_R2DQtQnOSwPwsXeWb-Ad?usp=sharing).
+
+![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_sales.png)
+<br/><br/>
+![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_order.png)
+
 
 ### Key Metrics and Dimensions:
 

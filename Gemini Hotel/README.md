@@ -4,8 +4,8 @@ Gemini Hotel Group operates two hotel types: city and resort. The Director of De
 ## Requirements Gathered From the Stakeholders:
 
 1. **Revenue Growth:** Is our hotel revenue increasing year-over-year?
-2. **Parking Capacity:**Should we expand our parking facilities?
-3. **Data Trend:**What trends are evident in the data?
+2. **Parking Capacity:** Should we expand our parking facilities?
+3. **Data Trend:** What trends are evident in the data?
 
 ## Data Structure & Initial Checks
 
@@ -30,9 +30,9 @@ Gemini Hotel Group operates two hotel types: city and resort. The Director of De
 ### Findings:
 
 - **Revenue Growth:** Total revenue has increased from 2018 to 2020, with a slight fluctuation in 2020 likely due to COVID-19 impacts.
-- **Revenue and Hotel Types:**Both hotel type contributes almost equally to the total revenue.
-- **Parking Utilization:**Parking needs generally remain below 5%.
-- **Discount Trends:**Customers consistently receive an average discount of 25.8% across various booking channels.
+- **Revenue and Hotel Types:** Both hotel type contributes almost equally to the total revenue.
+- **Parking Utilization:** Parking needs generally remain below 5%.
+- **Discount Trends:** Customers consistently receive an average discount of 25.8% across various booking channels.
 
 ### Recommendations:
 

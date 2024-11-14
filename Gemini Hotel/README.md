@@ -1,4 +1,4 @@
-# Gemini Hotel Group Revenue and Trend Analysis from 2018 to 2020
+# Gemini Hotel Group: Performance Analysis (2018-2020)
 Gemini Hotel Group operates two hotel types: city and resort. The Director of Development aims to understand past sales performance and identify trends in customer behavior. To address this, a Power BI dashboard was developed to monitor key performance indicators (KPIs).
 
 ## Requirements Gathered From the Stakeholders:

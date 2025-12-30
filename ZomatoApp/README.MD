@@ -4,11 +4,11 @@ Zomato is an Indian multinational restaurant aggregator and food delivery compan
 
 ### Dashboard:
 
-Interactive PowerBI dashboards can be found [here](https://drive.google.com/drive/folders/1oKq2yvvakLV_R2DQtQnOSwPwsXeWb-Ad?usp=sharing).
-
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_sales.png)
 <br/><br/>
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_order.png)
+
+Interactive PowerBI dashboards can be found [here](https://drive.google.com/drive/folders/1oKq2yvvakLV_R2DQtQnOSwPwsXeWb-Ad?usp=sharing).
 
 ### Findings:
 

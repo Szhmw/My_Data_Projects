@@ -2,12 +2,6 @@
 
 Zomato is an Indian multinational restaurant aggregator and food delivery company. I conducted a User Segmentation and Purchasing Behavior Analysis using data from 2017 to 2020.
 
-### Data Structure & Initial Checks
-
-- users Table: 100,000 rows
-- restaurant Table: >148,000 rows
-- orders Table: >150,000 rows
-
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/a87460c565c67a90ca0b619b0e11b41c0c8a2c38/ZomatoApp/ERD.png)
 
 ### Dashboard:
@@ -17,18 +11,6 @@ Interactive PowerBI dashboards can be found [here](https://drive.google.com/driv
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_sales.png)
 <br/><br/>
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/dash_total_order.png)
-
-
-### Key Metrics and Dimensions:
-
-- **Total Sales:** How many sales made in total.
-- **Total Order Amount:** How many orders placed in total.
-- **Total Quantity:** Total quantity ordered.
-- **Gender:** Female & Male.
-- **Age:** User Age.
-- **Marital Status:** Married or not.
-- **Weekday:** Day of week.
-- **Month:** Month of year.
 
 ### Findings:
 
@@ -46,11 +28,11 @@ January and November saw the highest surge in sales and orders. Monsoon season (
 - **Cuisine Popularity:** Indian (sometimes Chinese Indian fusion) cuisines dominated among all the cuisines.
 <br/><br/>
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/e0e2e9af2b3fd69890a84787535d722f9e7df9d2/ZomatoApp/cuisines.png)
+
 ### Recommendations:
 
 - Create marketing campaigns aimed at female customers, married couples, and employees to expand the customer base.
 - Offer promotions and special deals during the weekend to boost sales on the weekends
 - Look into if weather is the reason why sales are low during the monsoon season.
 - Encourage restaurants specializing in other cuisines other than Indian food to offer discounts to drive sales.
-
 

@@ -29,6 +29,9 @@ Gemini Hotel Group operates two hotel types: city and resort. The Director of De
 
 ![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/8095efad837e57576ce392c5deddfcff66300482/Gemini%20Hotel/hotel_dash.jpg)
 
+[Data Structure & codes](https://github.com/Szhmw/My_Data_Projects/blob/08d03042594e42d62dc5fbf3163c9ffdaa04f026/Gemini%20Hotel/Data.md)
+
 
 ```
+
 

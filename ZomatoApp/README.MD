@@ -2,8 +2,6 @@
 
 Zomato is an Indian multinational restaurant aggregator and food delivery company. I conducted a User Segmentation and Purchasing Behavior Analysis using data from 2017 to 2020.
 
-![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/a87460c565c67a90ca0b619b0e11b41c0c8a2c38/ZomatoApp/ERD.png)
-
 ### Dashboard:
 
 Interactive PowerBI dashboards can be found [here](https://drive.google.com/drive/folders/1oKq2yvvakLV_R2DQtQnOSwPwsXeWb-Ad?usp=sharing).

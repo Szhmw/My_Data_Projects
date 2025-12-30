@@ -7,26 +7,6 @@ Gemini Hotel Group operates two hotel types: city and resort. The Director of De
 2. **Parking Capacity:** Should we expand our parking facilities?
 3. **Data Trend:** What trends are evident in the data?
 
-## Data Structure & Initial Checks
-
-- Data from 2018 to 2020 (note: 2020 data is incomplete). 
-- `Discount` column is located in the `market_segment` table.
-- **Revenue** calculation requires considering discounts.
-- **Hotel type** is identified by the `hotel` in the dataset.
-- **Parking Needs** are assessed using the `required_car_parking_spaces` column.
-
-### Dashboard Visualization:
-
-![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/8095efad837e57576ce392c5deddfcff66300482/Gemini%20Hotel/hotel_dash.jpg)
-
-
-### Key Metrics and Dimensions:
-
-- **Total Revenue:** Calculated using total stay nights, average daily rate (ADR), and discounts.
-- **Total Nights:** Combined both weekend and weekday nights.
-- **Parking Percentage:** Percentage of required parking spaces utilized relative to total nights booked.
-
-
 ### Findings:
 
 - **Revenue Growth:** Total revenue has increased from 2018 to 2020, with a slight fluctuation in 2020 likely due to COVID-19 impacts.
@@ -44,19 +24,11 @@ Gemini Hotel Group operates two hotel types: city and resort. The Director of De
 - **Data Completeness:** Address the missing 2020 data to obtain a more accurate picture of recent trends.
 - **Customer Segmentation:** Deeper analysis of customer segments (e.g., business, leisure) can provide valuable insights into parking and other preferences.
 - **External Factors:** Consider the impact of external factors like economic conditions and travel trends on future demand.
+- 
+### Dashboard Visualization:
 
-### SQL Code Used to Combined Datasets and Query Data: 
-```sql
-with hotels as (
-select * from dbo.['2018$']
-union
-select * from dbo.['2019$']
-union
-select * from dbo.['2020$'])
+![Alt text](https://github.com/Szhmw/My_Data_Projects/blob/8095efad837e57576ce392c5deddfcff66300482/Gemini%20Hotel/hotel_dash.jpg)
 
-select * from hotels
-left join dbo.market_segment$
-on hotels.market_segment = dbo.market_segment$.market_segment
-left join meal_cost$
-on hotels.meal = meal_cost$.meal
+
 ```
+

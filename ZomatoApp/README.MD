@@ -34,5 +34,5 @@ January and November saw the highest surge in sales and orders. Monsoon season (
 - Look into if weather is the reason why sales are low during the monsoon season.
 - Encourage restaurants specializing in other cuisines other than Indian food to offer discounts to drive sales.
 
-<br></br/>
+<br><br/>
 [Data Structure](https://github.com/Szhmw/My_Data_Projects/blob/f9829d943037c15cbca482f968e10264c36adb86/ZomatoApp/data.md)
